@@ -1,4 +1,4 @@
-hellototheworld
+This is hellototheworld
 ===============
 
-my first repository on github
+it's my first test repository on github
